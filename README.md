@@ -33,7 +33,7 @@ This repository contains all lab experiments carried out during the course.
 
 # 📋 Experiments
 
-## 📌 Experiment 1: Resume Web Page
+## 📌 Experiment 1: Build a Resume using HTML/CSS
 
 **Technologies Used:**
 
