@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    font-family: "Times New Roman", serif;
+    text-align: left;
+}
+
+header {
+    margin-top: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+address {
+  font-style: normal; 
+  text-align: center;
+  font-size: 14px;
+}
+
+
+
+address a {
+    color: #1040d3;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
+
+body {
+  font-family: "Times New Roman", serif;
+  font-size: 15px;
+  color: #000;
+  line-height: 1.4;
+  margin: 20px;
+}
+
+/* Section Header */
+.education-section h2 {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-bottom: 1px solid #000;
+  padding-bottom: 2px;
+  margin-bottom: 10px;
+}
+
+/* Education Items Layout */
+.edu-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.edu-left h3 {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 3px 0;
+}
+
+.edu-left p {
+  margin: 2px 0;
+  font-size: 14px;
+}
+
+.edu-right {
+  font-size: 14px;
+  white-space: nowrap;
+  text-align: right;
+  margin-left: 20px;
+}
+
+
+.experience-section h2 {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-bottom: 1px solid #000;
+  padding-bottom: 2px;
+  margin-bottom: 12px;
+}
+
+.exp-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.exp-left h3 {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 3px 0;
+}
+
+.exp-left h3 a {
+  color: #1040d3;
+  text-decoration: none;
+}
+
+.exp-left h3 a:hover {
+  text-decoration: underline;
+}
+
+.exp-left .role {
+  font-style: italic;
+  margin: 2px 0 8px 0;
+  font-size: 14px;
+}
+
+.exp-left p {
+  font-size: 14px;
+  margin: 2px 0;
+  line-height: 1.4;
+  text-align: justify;
+}
+
+.exp-right {
+  font-size: 14px;
+  text-align: right;
+  white-space: nowrap;
+  margin-left: 20px;
+}
+
