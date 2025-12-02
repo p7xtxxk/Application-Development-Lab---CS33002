@@ -1,10 +1,14 @@
 /* name section */
 header {
-    text-align: center;
-    margin-bottom: 0;
+  text-align: center;
+  margin-bottom: 0;
 }
-#details, h1, h2, h3, p {
-    margin: 0;
+#details,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
 }
 /* education section */
 .edu-header {
@@ -50,4 +54,9 @@ header {
   display: flex;
   justify-content: space-between;
   font-style: italic;
+}
+
+/* skill section */
+.skill {
+    font-weight: bolder;
 }
